@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 7cb668de52c45604d89e78d6d466fd88
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 11
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca64871da9202cf4d96167cd12f9cb12
+      internalID: -557212810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 11
+        width: 42
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd325c6e33e368419c83377e49557ef
+      internalID: 2087851753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 11
+        width: 42
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce7349030e5edc4aa09a372f3fab2e1
+      internalID: -1850765166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 11
+        width: 108
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce69b90b49f888740a1634a6b57add37
+      internalID: -913658733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 9
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97395d8e7a8f15f4a9f0c62085bf981c
+      internalID: -1399458856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 9
+        width: 169
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9e20dbbc5d17342bb1dba93937f77e
+      internalID: -1187360959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 9
+        width: 149
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d319ec5a206b74cb742ecaf1015775
+      internalID: 1071485580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 9
+        width: 169
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e64a94bd7f3fa4d8948e2039f886c1
+      internalID: 461933709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 9
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4feed4a3f6eb14386b30de0463e985
+      internalID: 1531942420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 9
+        width: 169
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc948a86ef62945b904072de19d9f1
+      internalID: -830583206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 9
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c7b67a533ac74890a80c384fca6a7
+      internalID: -1622710523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 9
+        width: 149
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af1530cd37affc42881511464927310
+      internalID: 398363460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 9
+        width: 148
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467dd6666afcb944c9d428f90757eb15
+      internalID: 827714030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 9
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3685abe3cf108441bd111d7817d53ed
+      internalID: -413905724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 9
+        width: 148
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14747f10c3b7af446b3072a10244c27e
+      internalID: 80803631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 9
+        width: 149
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a683614f1091d54282a0db6d9bf4adf
+      internalID: -1362438499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 9
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b8d62f1d0e0c841bf05e7abc91ecac
+      internalID: -1336124142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 9
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ef97c9384cea64ab4494d0c355f97e
+      internalID: 242658924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 9
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44f2cb65303a2c47a6f834586ccfe62
+      internalID: -1973983788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 0
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3168f35c520ae3418f93c2c38963c43
+      internalID: 889501753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 11
+        width: 42
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7076a028fb72f4b8b90e34b0eb76dc
+      internalID: 139886732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 11
+        width: 42
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12077eeaac22914fa3e6b094a7871ab
+      internalID: 1316500892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Sweep-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 11
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efb596f4e4e058468363aac2be1fc08
+      internalID: 2089049061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pink_Vase_Vinearm_Sweep-Sheet_3: -913658733
+      Pink_Vase_Vinearm_Sweep-Sheet_9: -830583206
+      Pink_Vase_Vinearm_Sweep-Sheet_20: 139886732
+      Pink_Vase_Vinearm_Sweep-Sheet_18: -1973983788
+      Pink_Vase_Vinearm_Sweep-Sheet_1: 2087851753
+      Pink_Vase_Vinearm_Sweep-Sheet_2: -1850765166
+      Pink_Vase_Vinearm_Sweep-Sheet_8: 1531942420
+      Pink_Vase_Vinearm_Sweep-Sheet_22: 2089049061
+      Pink_Vase_Vinearm_Sweep-Sheet_5: -1187360959
+      Pink_Vase_Vinearm_Sweep-Sheet_13: -413905724
+      Pink_Vase_Vinearm_Sweep-Sheet_4: -1399458856
+      Pink_Vase_Vinearm_Sweep-Sheet_12: 827714030
+      Pink_Vase_Vinearm_Sweep-Sheet_6: 1071485580
+      Pink_Vase_Vinearm_Sweep-Sheet_15: -1362438499
+      Pink_Vase_Vinearm_Sweep-Sheet_19: 889501753
+      Pink_Vase_Vinearm_Sweep-Sheet_17: 242658924
+      Pink_Vase_Vinearm_Sweep-Sheet_7: 461933709
+      Pink_Vase_Vinearm_Sweep-Sheet_11: 398363460
+      Pink_Vase_Vinearm_Sweep-Sheet_21: 1316500892
+      Pink_Vase_Vinearm_Sweep-Sheet_16: -1336124142
+      Pink_Vase_Vinearm_Sweep-Sheet_10: -1622710523
+      Pink_Vase_Vinearm_Sweep-Sheet_0: -557212810
+      Pink_Vase_Vinearm_Sweep-Sheet_14: 80803631
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

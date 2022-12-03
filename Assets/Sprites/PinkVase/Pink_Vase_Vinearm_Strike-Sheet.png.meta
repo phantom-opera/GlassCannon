@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: ae6fd493537ca4b4f87af34d5e61a996
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 5
+        width: 41
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248f16086dea8c14e9c71e6c18f0b60f
+      internalID: 177788187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 5
+        width: 40
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221e4c42d1ccdd94b9a3b71730103e07
+      internalID: 1811747043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 5
+        width: 41
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794695fe0af70fc4fa5a2878bf193ce7
+      internalID: 1597337435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3
+        width: 63
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f176eb986bec754ab0a4861d350f83c
+      internalID: -1286731182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 190
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318eefb6335fd449bd20d8f30e2960f
+      internalID: -1563671200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 5
+        width: 57
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75972fda23c4602418d91511df86f814
+      internalID: 1922550985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 190
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b96ee09c7ed9d468412829e9d0a2ca
+      internalID: -696941107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 5
+        width: 57
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7199d33fadee007489d38572aec69987
+      internalID: 770396939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 5
+        width: 41
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0cea093f0c1c94483ab34b5e46476a
+      internalID: 1308307745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 5
+        width: 41
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fae8c95d7fee9041885390e9123e956
+      internalID: -1343091143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 5
+        width: 40
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f2d524c0c891341aa51a00882b8d45
+      internalID: 690350241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 5
+        width: 42
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2d71fd159653e4ca750ac0c06a06ad
+      internalID: -384284299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3
+        width: 74
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68ef56fb72a81446ba586fc18b878e6
+      internalID: -495723509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 165
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a644bf4b4b2648a6f82c4e8e3e897
+      internalID: -1069312207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 165
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1998c1fae6e78a34b9683cb930f91328
+      internalID: -776670305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 5
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8255119c0d800b479d24e99ef58aa86
+      internalID: 1907470291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3
+        width: 41
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f520db577c914881f7d09f9963715
+      internalID: 1550868591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 3
+        width: 84
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afbd314b4856e5428d8db328af6a9f0
+      internalID: -1417170980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 0
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a9dc9b75f3a6047a8c28f272202f9a
+      internalID: -1670682009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6084f36136fa07458c69bb4559b4bb8
+      internalID: 1294280812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 0
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b7e221535cc6343b9ad38dac3ab44a
+      internalID: -1809183615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 0
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dccdb3d2b3dfc24dbb09347737e05e8
+      internalID: -1755394352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 0
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89dfd75a8665d243a88937e88db6fe7
+      internalID: 310573931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf30cb8901e2b40b758581b551a4b8
+      internalID: -227239936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 0
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac952563642e1c6489afcee061eb735c
+      internalID: -1195406166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 0
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7bcae95c2ee4e42bc7e702ccaa00ce
+      internalID: -803235425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 5
+        width: 40
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b679807285114fa5f7a918aa9ff7a
+      internalID: -453994126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Vase_Vinearm_Strike-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 5
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb0be02ef47a14892679f8666c95b8
+      internalID: -1340237498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pink_Vase_Vinearm_Strike-Sheet_19: 1294280812
+      Pink_Vase_Vinearm_Strike-Sheet_27: -1340237498
+      Pink_Vase_Vinearm_Strike-Sheet_13: -1069312207
+      Pink_Vase_Vinearm_Strike-Sheet_22: 310573931
+      Pink_Vase_Vinearm_Strike-Sheet_18: -1670682009
+      Pink_Vase_Vinearm_Strike-Sheet_4: -1563671200
+      Pink_Vase_Vinearm_Strike-Sheet_20: -1809183615
+      Pink_Vase_Vinearm_Strike-Sheet_9: -1343091143
+      Pink_Vase_Vinearm_Strike-Sheet_0: 177788187
+      Pink_Vase_Vinearm_Strike-Sheet_10: 690350241
+      Pink_Vase_Vinearm_Strike-Sheet_1: 1811747043
+      Pink_Vase_Vinearm_Strike-Sheet_15: 1907470291
+      Pink_Vase_Vinearm_Strike-Sheet_6: -696941107
+      Pink_Vase_Vinearm_Strike-Sheet_3: -1286731182
+      Pink_Vase_Vinearm_Strike-Sheet_12: -495723509
+      Pink_Vase_Vinearm_Strike-Sheet_17: -1417170980
+      Pink_Vase_Vinearm_Strike-Sheet_5: 1922550985
+      Pink_Vase_Vinearm_Strike-Sheet_24: -1195406166
+      Pink_Vase_Vinearm_Strike-Sheet_25: -803235425
+      Pink_Vase_Vinearm_Strike-Sheet_14: -776670305
+      Pink_Vase_Vinearm_Strike-Sheet_26: -453994126
+      Pink_Vase_Vinearm_Strike-Sheet_11: -384284299
+      Pink_Vase_Vinearm_Strike-Sheet_16: 1550868591
+      Pink_Vase_Vinearm_Strike-Sheet_23: -227239936
+      Pink_Vase_Vinearm_Strike-Sheet_7: 770396939
+      Pink_Vase_Vinearm_Strike-Sheet_2: 1597337435
+      Pink_Vase_Vinearm_Strike-Sheet_8: 1308307745
+      Pink_Vase_Vinearm_Strike-Sheet_21: -1755394352
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

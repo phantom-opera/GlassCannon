@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17a84f0aeecd2e046a5acefc61724a78, type: 3}
+  m_Name: KeptData
+  m_EditorClassIdentifier: 
+  renown: 0
+  essences: 0
+  healthMod: 0
+  speedMod: 0
+  attackMod: 0
+  dashBought: 0
+  doubleJumpBought: 0
+  halfDamageBought: 0
+  doubAttBought: 0
+  timeBought: 0
+  heldElementalPowers: 0
+  healingEssence: 0
+  defeatedBossNumber: 0
+  attackPrice: 10
+  healthPrice: 10
+  speedPrice: 10
+  dashPrice: 10
+  doublePrice: 10
+  doubAttPrice: 50
+  halfDamagePrice: 10
+  timePrice: 10
+  elementalPowerPrice: 1
+  healingPrice: 3

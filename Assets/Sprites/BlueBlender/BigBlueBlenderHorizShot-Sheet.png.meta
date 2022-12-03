@@ -1,0 +1,2269 @@
+fileFormatVersion: 2
+guid: 0f601682e2a33554c8b0425160458263
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 29
+        height: 54
+      alignment: 9
+      pivot: {x: 0.84, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77b19aa8053b4542b246df962fe89be
+      internalID: -429706365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 29
+        height: 52
+      alignment: 9
+      pivot: {x: 0.84, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e0d77fde39b66439a243e8a2b31983
+      internalID: -1888193282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.84, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c0aed5c267827439c5fe5f39a2ae7f
+      internalID: -1625049722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.84, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce482a0e853ac064da570443c9c0f5fe
+      internalID: 1263011769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1
+        width: 29
+        height: 52
+      alignment: 9
+      pivot: {x: 0.84, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22c446a1007ab94d82fcf2ee2c7f1f2
+      internalID: -219359124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 29
+        height: 54
+      alignment: 9
+      pivot: {x: 0.84, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0874a9668740041925a8d985c6f173
+      internalID: -1764904687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 29
+        height: 58
+      alignment: 9
+      pivot: {x: 0.84, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69423f51901c0354abe9c39c19e4cefb
+      internalID: 304764748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 29
+        height: 63
+      alignment: 9
+      pivot: {x: 0.84, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452e063dc0f6f154bb2a44a0a60ddf0d
+      internalID: 1945944349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1
+        width: 29
+        height: 75
+      alignment: 9
+      pivot: {x: 0.84, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a806dc1167fec4d837bc8dd368cb0f
+      internalID: -1336075115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 29
+        height: 76
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ad4b997d69ff248b1c7d65aa4c66ca
+      internalID: 1588330392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 29
+        height: 76
+      alignment: 9
+      pivot: {x: 0.84, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0092e928348c0149a6e0a4986a50e77
+      internalID: 1468331026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 0
+        width: 29
+        height: 76
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b94b54f7936f3e4b8ecd329b7385a9a
+      internalID: -600803852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 0
+        width: 29
+        height: 76
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48fe3121342db24da06526cd8ba207d
+      internalID: 1413691583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 0
+        width: 29
+        height: 76
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aad37bb9b1cbd459756783b0e9c8fc
+      internalID: 896054960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 36
+        height: 75
+      alignment: 9
+      pivot: {x: 0.87, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad54dea92531b54c87610f87eb5e997
+      internalID: 801078537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1
+        width: 52
+        height: 73
+      alignment: 9
+      pivot: {x: 0.88, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1313a8f337be042bfd36e27c5450b4
+      internalID: -698400795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 0
+        width: 86
+        height: 60
+      alignment: 9
+      pivot: {x: 0.96, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c5403383043a42bdfc81ad134d19c
+      internalID: -1076006384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1
+        width: 65
+        height: 72
+      alignment: 9
+      pivot: {x: 0.96, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7738396d922107547b0a5ffb2e8a208c
+      internalID: -528357813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3086ccdced7364795dc949478c651e
+      internalID: -1888779317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14efc9a2fb54bdb468c3ce6d9ffc60f0
+      internalID: 22787877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edd388f2bde92340aad1267431d3ad9
+      internalID: -1858446999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec4617b7eecdc244aaf2f4a985ee9d2
+      internalID: -387463128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d05a7738fcab14786e2c1c7f746c06
+      internalID: 1688419370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e817905126b68b642b4fb162ef8d2361
+      internalID: -2119627392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb11aa781b3c7194db8192523d574bf9
+      internalID: 827233485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06984920574cc1e45b2c8a609b8ff1c2
+      internalID: -765980435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574c13cd10259042b5ccf9567f8f57e
+      internalID: 1067446438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 0
+        width: 57
+        height: 55
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b8c8922b2f26449bf727445269e162
+      internalID: 512066754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 0
+        width: 61
+        height: 73
+      alignment: 9
+      pivot: {x: 0.96, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac2962eab6b6243889da3a601c86af
+      internalID: 202536613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 0
+        width: 74
+        height: 54
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c23aa5fe3c3f4ab55a6c871cada20
+      internalID: 1136010031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 0
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8606327e80c88499af2694f9e42581
+      internalID: 352750066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 0
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eaca43818042045809f530087f0e4e
+      internalID: 388952068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 0
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e3ff6e8e39d04198e0c161f48a61d
+      internalID: 1746403157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 0
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8a8e83d8017e742afdf207f1566248
+      internalID: 668951860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 0
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd0d6366367e6c4e9c91287908addf1
+      internalID: -1829123645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 0
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5097a2b4b6a1ae4dacdc71e4ee64241
+      internalID: 809155317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 0
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8ea83ece937045840ecef5cb06edf
+      internalID: 1080894381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 0
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a878bed6033ea4f4fbd2253e4627c03d
+      internalID: 1571558997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 60
+        height: 46
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b97e0af674667c4f85b193539f4f245
+      internalID: -1144490776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 0
+        width: 63
+        height: 46
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adfbd86835cbc64cac20178370aaf2f
+      internalID: -2078151830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 0
+        width: 69
+        height: 46
+      alignment: 9
+      pivot: {x: 0.96, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4a7f9b835af14195bea55a86dd631
+      internalID: -444789923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 0
+        width: 85
+        height: 45
+      alignment: 9
+      pivot: {x: 0.96, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7196cb89c6275f40ad5c3804b0fc09d
+      internalID: -1384675836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 100
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97d18ef0fcb8b747ac52889f174cd7e
+      internalID: 899522751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 0
+        width: 83
+        height: 72
+      alignment: 9
+      pivot: {x: 0.96, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab02dcbdd129b7a468b86a9240b8adcc
+      internalID: 460108773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 0
+        width: 76
+        height: 54
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ebbf1c4b8a6dc49a92eda87a2844b3
+      internalID: -693028841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 4525
+        y: 0
+        width: 76
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4888aea37bce73940a7b399cd955995e
+      internalID: 187599942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 0
+        width: 76
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e618dea6b4a16d458daa5abfcc19a73
+      internalID: -788403881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 0
+        width: 76
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cbf7aba6a523e4b9bd0007a4478f93
+      internalID: -1772923361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 4825
+        y: 0
+        width: 76
+        height: 54
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d65003a6022122458af0d03d573fe16
+      internalID: 1688499842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 1
+        width: 68
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b6749f07672f245a2d2abe9c36a908
+      internalID: 1685435606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 5038
+        y: 0
+        width: 64
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340564adbee692f4cb1b77672892f94b
+      internalID: 208631330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 5140
+        y: 1
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8501a9313744bd34bab915c3e8ca8904
+      internalID: 775880922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 5239
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db1705920ee32243acc53847d2c11f1
+      internalID: -1190836013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 5343
+        y: 0
+        width: 57
+        height: 55
+      alignment: 9
+      pivot: {x: 0.96, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0171c89dc37081e4f8b8553dc123ae84
+      internalID: -2122668469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 0
+        width: 61
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4791bbc656dd24a8a611e62237fc35
+      internalID: 1109229836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 5526
+        y: 0
+        width: 74
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951a4a27d62056448b0ac1f8cb8512ac
+      internalID: 2122999436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 5643
+        y: 0
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec609e4f5d67ad24f9a84d7712174640
+      internalID: 1005483097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 5743
+        y: 0
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085c02b1e95bb6c42a74e6b1cb5339ab
+      internalID: 494460776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 5843
+        y: 0
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ff531c90e0bef4cbe01b67aab47300
+      internalID: 1179649901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 0
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9349bb530726a94aa36feb63ee3a71b
+      internalID: -1247634904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 6043
+        y: 0
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220b6f2c900d8544c93c8ceb868ee0f6
+      internalID: 326658919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 6143
+        y: 0
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b979ffffc46334dbf98ce96b2b661b
+      internalID: 1193716207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 6243
+        y: 0
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e7665b676246418666e7285cbde4e
+      internalID: -294205407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 6343
+        y: 0
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f20a86eab687fc47805f28f8f30294a
+      internalID: -1604425799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 0
+        width: 60
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d3258990c753f4da1cd2a69e06fe89
+      internalID: -210026831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 0
+        width: 63
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4a372287b7f344b85aa46aae7f4f1f
+      internalID: -1593702270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 0
+        width: 69
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30a07059a5797e43975e47bf8d173e4
+      internalID: 1786824934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 6715
+        y: 0
+        width: 85
+        height: 45
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a3e934996fad34d913d850170cddf3
+      internalID: -1639114539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 0
+        width: 100
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6844d332bf70234eb97e36d863d8b68
+      internalID: 643352997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 6917
+        y: 0
+        width: 83
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ea964d6f3444448c883b18f307d85
+      internalID: 1209057060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 7024
+        y: 0
+        width: 76
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41ba66234dadd24ba73a156a22d796d
+      internalID: 1926065906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 7124
+        y: 0
+        width: 76
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64681d37bbc65ce46ae7276981a99cda
+      internalID: -59049421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 0
+        width: 76
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c650d7d44fba41930c985bb649581
+      internalID: -727659832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 7324
+        y: 0
+        width: 76
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b90a95b541e8468a04fbb32b1cbc2
+      internalID: 252237987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 0
+        width: 76
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa9ec84f85c7384ba9a315c299e092e
+      internalID: -1551325319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 7533
+        y: 0
+        width: 68
+        height: 53
+      alignment: 9
+      pivot: {x: 0.9, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ab74cd79dfd7648b1b1c1b525f2be2
+      internalID: -1694372431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 7636
+        y: 0
+        width: 64
+        height: 53
+      alignment: 9
+      pivot: {x: 0.9, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f74957da1beeca4ebaedcdf9b90b8fc
+      internalID: 1495510692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 7742
+        y: 1
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.9, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eeacd1bcb9e234d9441b0ee0933c14
+      internalID: 1035511563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 0
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.9, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7043d291c43d194ca6fb7665394122a
+      internalID: -1397663369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 7935
+        y: 1
+        width: 65
+        height: 72
+      alignment: 9
+      pivot: {x: 0.9, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23998744a4af7bb459d01f74c9f12d12
+      internalID: -1842622387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 8015
+        y: 0
+        width: 86
+        height: 56
+      alignment: 9
+      pivot: {x: 0.9, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c5346f40f59d444ba1df0151ff35c5
+      internalID: 207150973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 8141
+        y: 0
+        width: 59
+        height: 69
+      alignment: 9
+      pivot: {x: 0.9, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bba5fb6aed12a48a53426e4de958bd
+      internalID: -1322975674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 8263
+        y: 0
+        width: 36
+        height: 75
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e19fc776fc4f84bab77653a150dd10
+      internalID: -267113476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 8370
+        y: 0
+        width: 29
+        height: 76
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11605841bca271b459e950edab27ebd4
+      internalID: 1569214389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 8471
+        y: 0
+        width: 29
+        height: 76
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e58680525721664388111789d656bc3
+      internalID: -1504918755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 8571
+        y: 0
+        width: 29
+        height: 76
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6932d4cbcd047fe438b9dd42ebdee5e1
+      internalID: 679597883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 8671
+        y: 0
+        width: 29
+        height: 76
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef86b07ea272e4499e19780217c9451
+      internalID: 2037184896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 8771
+        y: 0
+        width: 29
+        height: 76
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9760dec2cd976b24fb7511c7c368cf1b
+      internalID: -1272991122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 8868
+        y: 1
+        width: 29
+        height: 75
+      alignment: 9
+      pivot: {x: 0.84, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b399e4e313a274d912c9f61f177430
+      internalID: -97555861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 8972
+        y: 0
+        width: 29
+        height: 63
+      alignment: 9
+      pivot: {x: 0.84, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507bbfe052f0245499c6fa7dfa47dc1c
+      internalID: 262628998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 9070
+        y: 0
+        width: 29
+        height: 58
+      alignment: 9
+      pivot: {x: 0.84, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4f036854b5e9b4290d3b30cbe1846d
+      internalID: -849708352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 9171
+        y: 0
+        width: 29
+        height: 54
+      alignment: 9
+      pivot: {x: 0.84, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc5b86be1cc81b4ab1152e750866605
+      internalID: -886263327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 9271
+        y: 0
+        width: 29
+        height: 52
+      alignment: 9
+      pivot: {x: 0.84, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efc864193392ed4ba617942f3ee1d4c
+      internalID: 72667169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 9371
+        y: 2
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.84, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c8bab751bbea4aadad544e10f9241
+      internalID: -1510336505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 9471
+        y: 0
+        width: 29
+        height: 50
+      alignment: 9
+      pivot: {x: 0.84, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6739134333e7e44c89409f87df1e022
+      internalID: -848235810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 9571
+        y: 1
+        width: 29
+        height: 52
+      alignment: 9
+      pivot: {x: 0.84, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c2efa24e93f194ab33f5995bd8c636
+      internalID: 1663440795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigBlueBlenderHorizShot-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 9671
+        y: 0
+        width: 29
+        height: 54
+      alignment: 9
+      pivot: {x: 0.84, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36792b324ee29fd44aab33a16f03fd6b
+      internalID: 804893617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BigBlueBlenderHorizShot-Sheet_73: 252237987
+      BigBlueBlenderHorizShot-Sheet_67: -1639114539
+      BigBlueBlenderHorizShot-Sheet_27: 512066754
+      BigBlueBlenderHorizShot-Sheet_94: -848235810
+      BigBlueBlenderHorizShot-Sheet_91: -886263327
+      BigBlueBlenderHorizShot-Sheet_46: -788403881
+      BigBlueBlenderHorizShot-Sheet_50: 208631330
+      BigBlueBlenderHorizShot-Sheet_22: 1688419370
+      BigBlueBlenderHorizShot-Sheet_34: -1829123645
+      BigBlueBlenderHorizShot-Sheet_35: 809155317
+      BigBlueBlenderHorizShot-Sheet_63: -1604425799
+      BigBlueBlenderHorizShot-Sheet_26: 1067446438
+      BigBlueBlenderHorizShot-Sheet_83: 1569214389
+      BigBlueBlenderHorizShot-Sheet_4: -219359124
+      BigBlueBlenderHorizShot-Sheet_14: 801078537
+      BigBlueBlenderHorizShot-Sheet_62: -294205407
+      BigBlueBlenderHorizShot-Sheet_36: 1080894381
+      BigBlueBlenderHorizShot-Sheet_43: 460108773
+      BigBlueBlenderHorizShot-Sheet_51: 775880922
+      BigBlueBlenderHorizShot-Sheet_56: 1005483097
+      BigBlueBlenderHorizShot-Sheet_53: -2122668469
+      BigBlueBlenderHorizShot-Sheet_78: -1397663369
+      BigBlueBlenderHorizShot-Sheet_19: 22787877
+      BigBlueBlenderHorizShot-Sheet_55: 2122999436
+      BigBlueBlenderHorizShot-Sheet_61: 1193716207
+      BigBlueBlenderHorizShot-Sheet_64: -210026831
+      BigBlueBlenderHorizShot-Sheet_52: -1190836013
+      BigBlueBlenderHorizShot-Sheet_95: 1663440795
+      BigBlueBlenderHorizShot-Sheet_84: -1504918755
+      BigBlueBlenderHorizShot-Sheet_41: -1384675836
+      BigBlueBlenderHorizShot-Sheet_45: 187599942
+      BigBlueBlenderHorizShot-Sheet_69: 1209057060
+      BigBlueBlenderHorizShot-Sheet_38: -1144490776
+      BigBlueBlenderHorizShot-Sheet_32: 1746403157
+      BigBlueBlenderHorizShot-Sheet_23: -2119627392
+      BigBlueBlenderHorizShot-Sheet_87: -1272991122
+      BigBlueBlenderHorizShot-Sheet_90: -849708352
+      BigBlueBlenderHorizShot-Sheet_13: 896054960
+      BigBlueBlenderHorizShot-Sheet_18: -1888779317
+      BigBlueBlenderHorizShot-Sheet_54: 1109229836
+      BigBlueBlenderHorizShot-Sheet_49: 1685435606
+      BigBlueBlenderHorizShot-Sheet_33: 668951860
+      BigBlueBlenderHorizShot-Sheet_39: -2078151830
+      BigBlueBlenderHorizShot-Sheet_93: -1510336505
+      BigBlueBlenderHorizShot-Sheet_2: -1625049722
+      BigBlueBlenderHorizShot-Sheet_16: -1076006384
+      BigBlueBlenderHorizShot-Sheet_40: -444789923
+      BigBlueBlenderHorizShot-Sheet_31: 388952068
+      BigBlueBlenderHorizShot-Sheet_5: -1764904687
+      BigBlueBlenderHorizShot-Sheet_68: 643352997
+      BigBlueBlenderHorizShot-Sheet_66: 1786824934
+      BigBlueBlenderHorizShot-Sheet_80: 207150973
+      BigBlueBlenderHorizShot-Sheet_85: 679597883
+      BigBlueBlenderHorizShot-Sheet_12: 1413691583
+      BigBlueBlenderHorizShot-Sheet_77: 1035511563
+      BigBlueBlenderHorizShot-Sheet_81: -1322975674
+      BigBlueBlenderHorizShot-Sheet_74: -1551325319
+      BigBlueBlenderHorizShot-Sheet_3: 1263011769
+      BigBlueBlenderHorizShot-Sheet_9: 1588330392
+      BigBlueBlenderHorizShot-Sheet_21: -387463128
+      BigBlueBlenderHorizShot-Sheet_71: -59049421
+      BigBlueBlenderHorizShot-Sheet_7: 1945944349
+      BigBlueBlenderHorizShot-Sheet_28: 202536613
+      BigBlueBlenderHorizShot-Sheet_24: 827233485
+      BigBlueBlenderHorizShot-Sheet_25: -765980435
+      BigBlueBlenderHorizShot-Sheet_11: -600803852
+      BigBlueBlenderHorizShot-Sheet_86: 2037184896
+      BigBlueBlenderHorizShot-Sheet_1: -1888193282
+      BigBlueBlenderHorizShot-Sheet_15: -698400795
+      BigBlueBlenderHorizShot-Sheet_30: 352750066
+      BigBlueBlenderHorizShot-Sheet_20: -1858446999
+      BigBlueBlenderHorizShot-Sheet_82: -267113476
+      BigBlueBlenderHorizShot-Sheet_59: -1247634904
+      BigBlueBlenderHorizShot-Sheet_17: -528357813
+      BigBlueBlenderHorizShot-Sheet_6: 304764748
+      BigBlueBlenderHorizShot-Sheet_79: -1842622387
+      BigBlueBlenderHorizShot-Sheet_58: 1179649901
+      BigBlueBlenderHorizShot-Sheet_92: 72667169
+      BigBlueBlenderHorizShot-Sheet_76: 1495510692
+      BigBlueBlenderHorizShot-Sheet_96: 804893617
+      BigBlueBlenderHorizShot-Sheet_48: 1688499842
+      BigBlueBlenderHorizShot-Sheet_75: -1694372431
+      BigBlueBlenderHorizShot-Sheet_47: -1772923361
+      BigBlueBlenderHorizShot-Sheet_89: 262628998
+      BigBlueBlenderHorizShot-Sheet_72: -727659832
+      BigBlueBlenderHorizShot-Sheet_60: 326658919
+      BigBlueBlenderHorizShot-Sheet_0: -429706365
+      BigBlueBlenderHorizShot-Sheet_65: -1593702270
+      BigBlueBlenderHorizShot-Sheet_44: -693028841
+      BigBlueBlenderHorizShot-Sheet_88: -97555861
+      BigBlueBlenderHorizShot-Sheet_37: 1571558997
+      BigBlueBlenderHorizShot-Sheet_70: 1926065906
+      BigBlueBlenderHorizShot-Sheet_8: -1336075115
+      BigBlueBlenderHorizShot-Sheet_29: 1136010031
+      BigBlueBlenderHorizShot-Sheet_42: 899522751
+      BigBlueBlenderHorizShot-Sheet_57: 494460776
+      BigBlueBlenderHorizShot-Sheet_10: 1468331026
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

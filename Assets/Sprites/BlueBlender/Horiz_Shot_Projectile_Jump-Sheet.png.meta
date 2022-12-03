@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: be8ba98a74b06fc4193cf2569282a565
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: -0.6, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c05e94be049e44380fb6648ef10cd5
+      internalID: 2036310919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 10
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: -0.6, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81eb5fc5851c98499f5fd533be661b1
+      internalID: 1826239081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 14
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: -0.6, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1069828be0558b844a7d394105349968
+      internalID: 1813421687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: -0.6, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08e12fdcde5e914aab006a2617fddf2
+      internalID: 1231435635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 12
+        width: 24
+        height: 25
+      alignment: 9
+      pivot: {x: -0.6, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a426ff33fc1f840a8e8626ce6756ae
+      internalID: -1087205679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 14
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: -0.6, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7224e74fa517a5b4084e70184b7a338d
+      internalID: -1739740675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 10
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: -0.6, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6bcc353b18ee942a199c32d88756f6
+      internalID: -1668815658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956eb0249bfa72342a4883b05fc9f8d5
+      internalID: 1317279139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38c961f79d54da4287bc37b3fb133d1
+      internalID: 637153972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1bb97cc16c3ac408388ca93fc4f307
+      internalID: 1673930648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 10
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: -0.2, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1508f0a098ad3d14fb5d81bbdd7656c9
+      internalID: -608386270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 9
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: -0.33, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112776c095f3a4440a1efe313cbee3f2
+      internalID: -793529785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 5
+        width: 43
+        height: 44
+      alignment: 9
+      pivot: {x: -0.08, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871581eef469a2e4cb0e483ba0e51649
+      internalID: -618150943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 9
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: -0.08, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4ac640af184e347bb7c9b9539b397e
+      internalID: -849488090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 10
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: -0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaf29f03f181e14dbcee2b0a748e2c6
+      internalID: 2012233066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 12
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -0.3, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7fa56adf1bba848bff28da82b28e54
+      internalID: 695940399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Jump-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 11
+        width: 72
+        height: 39
+      alignment: 9
+      pivot: {x: 0, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42eafb0f1a4c5741a38a04e7db5da07
+      internalID: 146576042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Horiz_Shot_Projectile_Jump-Sheet_13: 2036310919
+      Horiz_Shot_Projectile_Jump-Sheet_5: 1826239081
+      Horiz_Shot_Projectile_Jump-Sheet_6: 1813421687
+      Horiz_Shot_Projectile_Jump-Sheet_14: 1231435635
+      Horiz_Shot_Projectile_Jump-Sheet_10: -1087205679
+      Horiz_Shot_Projectile_Jump-Sheet_9: 1845679162
+      Horiz_Shot_Projectile_Jump-Sheet_2: -1739740675
+      Horiz_Shot_Projectile_Jump-Sheet_12: -1668815658
+      Horiz_Shot_Projectile_Jump-Sheet_3: 1317279139
+      Horiz_Shot_Projectile_Jump-Sheet_8: -348423203
+      Horiz_Shot_Projectile_Jump-Sheet_4: 637153972
+      Horiz_Shot_Projectile_Jump-Sheet_15: 1673930648
+      Horiz_Shot_Projectile_Jump-Sheet_7: -608386270
+      Horiz_Shot_Projectile_Jump-Sheet_16: -793529785
+      Horiz_Shot_Projectile_Jump-Sheet_1: -618150943
+      Horiz_Shot_Projectile_Jump-Sheet_0: -849488090
+      Horiz_Shot_Projectile_Jump-Sheet_11: 2012233066
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

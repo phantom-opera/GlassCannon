@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 7004d3181e44eb548ad2398a0edd9409
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 1, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95527b3d6e4e8d4d9659df09a5fce3d
+      internalID: -1006978461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 1, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52079edf8b11a194ca8e4d27165448bb
+      internalID: -2138211596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 13
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 1, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f56ff8e964d93479877bd2b3b28c0e
+      internalID: 1356956016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 12
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 1, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bffa19397678e54b8fea2151e23b247
+      internalID: -44485542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 12
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 1, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aff238c604a864ea5180d94ac6be97
+      internalID: -2103039199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 14
+        width: 23
+        height: 22
+      alignment: 9
+      pivot: {x: 1, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcbde26c269c7c4d94717cf2ebc31c4
+      internalID: 2072366336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 9
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1181611978506d240ac09db0d58c6560
+      internalID: 1960565079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 5
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a73ab8ae5de00f4baf7bdf942fd84b5
+      internalID: 683248560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0702b0ffc715ff9409cc52eea30b67e1
+      internalID: 1926357094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 10
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df1784772581645bb13533bc87a913
+      internalID: -737402664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 20
+        width: 19
+        height: 18
+      alignment: 9
+      pivot: {x: 1.2, y: 1.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13b3baf1facf0d4bb6bb81a441eaa00
+      internalID: 1938999561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 15
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.96, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158b4d97face844d8faf658c52752c6
+      internalID: -47157002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.76, y: 0.79}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f62f0b62d9f52f45ad8f762d429cae0
+      internalID: 829226486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.8, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183fe6b83a62b3f4aae4cd7575e929c9
+      internalID: -1213869541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 7
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 1, y: 0.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9348777f67eb2dc429bb3081ed0b3714
+      internalID: 1576534015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 8
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: 0.8, y: 0.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc70d80e3bea76e49908f64920e08228
+      internalID: 553775955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horiz_Shot_Projectile_Crouch-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 5
+        width: 68
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5bf3414cc250449030296fc3400c3
+      internalID: 1230591714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Horiz_Shot_Projectile_Crouch-Sheet_12: 829226486
+      Horiz_Shot_Projectile_Crouch-Sheet_10: 1938999561
+      Horiz_Shot_Projectile_Crouch-Sheet_16: 1230591714
+      Horiz_Shot_Projectile_Crouch-Sheet_3: -44485542
+      Horiz_Shot_Projectile_Crouch-Sheet_5: 2072366336
+      Horiz_Shot_Projectile_Crouch-Sheet_4: -2103039199
+      Horiz_Shot_Projectile_Crouch-Sheet_8: 1926357094
+      Horiz_Shot_Projectile_Crouch-Sheet_11: -47157002
+      Horiz_Shot_Projectile_Crouch-Sheet_0: -1006978461
+      Horiz_Shot_Projectile_Crouch-Sheet_1: -2138211596
+      Horiz_Shot_Projectile_Crouch-Sheet_13: -1213869541
+      Horiz_Shot_Projectile_Crouch-Sheet_15: 553775955
+      Horiz_Shot_Projectile_Crouch-Sheet_2: 1356956016
+      Horiz_Shot_Projectile_Crouch-Sheet_7: 683248560
+      Horiz_Shot_Projectile_Crouch-Sheet_9: -737402664
+      Horiz_Shot_Projectile_Crouch-Sheet_6: 1960565079
+      Horiz_Shot_Projectile_Crouch-Sheet_14: 1576534015
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
